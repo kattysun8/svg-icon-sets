@@ -1,15 +1,15 @@
-main {
-  font-family: 'Overpass', sans-serif;
+html {
+  font-family: Overpass, sans-serif;
   color: #fff;
 }
 
 section {
-  background-image: linear-gradient(#ff9500,#ff5e3a);
+  background-image: linear-gradient(#ff9500, #ff5e3a);
 }
 
 .btn {
   color: #fff;
-  border-color: rgba(255, 255, 255, .4);
+  border-color: rgba(255, 255, 255, .8);
 }
 
 .btn:hover {
